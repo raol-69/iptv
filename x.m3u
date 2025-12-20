@@ -26,7 +26,6 @@ https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="PrivateTV.nl",Private TV (576p)
 http://149.62.183.194:9293/play/a07t
 #EXTINF:-1 tvg-id="PrivateTVHD.nl",Private TV HD (720p)
-https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedlightHD.nl",Redlight HD (720p)
 https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
@@ -36,25 +35,23 @@ http://51.159.102.100/PenthouseGold/index.m3u8
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Silk.ru",Silk (1080p) [Geo-blocked]
-http://live-1.otcnet.ru/shelkhdmts/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Olala.ru",O-la-la! (576p)
-http://streaming.tv-teleport.ru/O-la-la/index.m3u8
+
 #EXTINF:-1 tvg-id="BrazzersTVEurope.us",Brazzers TV Europe (720p)
-https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="VisitXTV.nl",Visit-X TV (720p)
-https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="JennyForYou.us",Jenny For You (720p)
-https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MiamiTV.us",MiamiTV (1080p)
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MiamiTVLatino.us",MiamiTV Latino (1080p)
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="pink_erotica8",Pink Erotica 8 (1080p)
+#EXTINF:-1 tvg-id="pink_erotica8.ba",Pink Erotica 8 (1080p)
 https://webtvstream.bhtelecom.ba/hls17/pink_erotic8_1200.m3u8
 
-
+https://webtvstream.bhtelecom.ba/hls14/pink_erotic6_1200.m3u8
 
 
