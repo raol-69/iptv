@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="pink_erotica8.us",Pink Erotica 8 (1080p)
+https://webtvstream.bhtelecom.ba/hls17/pink_erotic8_1200.m3u8
+
+#EXTINF:-1 tvg-id="pink_erotica6.us",Pink Erotica 6 (1080p)
+https://webtvstream.bhtelecom.ba/hls14/pink_erotic6_1200.m3u8
+
 #EXTINF:-1 tvg-id="RougeTV.ch",Rouge TV (720p)
 https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
 #EXTINF:-1 tvg-id="RougeTV.ch",Rouge TV (720p)
@@ -7,30 +13,26 @@ https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CinemaPlus.co",Cinema + (720p)
-https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 
 #EXTINF:-1 tvg-id="XXXCartoons.de",XXX Cartoons (520p)
 http://144.76.58.245:2307/cartoon/index.m3u8
 
 #EXTINF:-1 tvg-id="EroXHD.nl",EroX HD (720p)
-https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EroXXXHD.nl",EroXXX HD (720p)
-https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DorcelTV.nl",Dorcel TV (720p)
-https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HustlerHD.nl",Hustler HD (720p)
-https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PrivateTV.nl",Private TV (576p)
-http://149.62.183.194:9293/play/a07t
+
 #EXTINF:-1 tvg-id="PrivateTVHD.nl",Private TV HD (720p)
 
 #EXTINF:-1 tvg-id="RedlightHD.nl",Redlight HD (720p)
-https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-id="PenthouseGold.us",Penthouse Gold (1080p)
-http://51.159.102.100/PenthouseGold/index.m3u8
+
 #EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us",Playboy TV Latin America (1080p)
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
@@ -48,10 +50,5 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MiamiTVLatino.us",MiamiTV Latino (1080p)
 
-
-#EXTINF:-1 tvg-id="pink_erotica8.ba",Pink Erotica 8 (1080p)
-https://webtvstream.bhtelecom.ba/hls17/pink_erotic8_1200.m3u8
-
-https://webtvstream.bhtelecom.ba/hls14/pink_erotic6_1200.m3u8
 
 
