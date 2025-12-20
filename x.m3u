@@ -15,7 +15,6 @@ https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 #EXTINF:-1 tvg-id="CinemaPlus.co",Cinema + (720p)
 
 #EXTINF:-1 tvg-id="XXXCartoons.de",XXX Cartoons (520p)
-http://144.76.58.245:2307/cartoon/index.m3u8
 
 #EXTINF:-1 tvg-id="EroXHD.nl",EroX HD (720p)
 
