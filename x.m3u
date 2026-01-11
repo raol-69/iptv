@@ -1,5 +1,27 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="TRANS TV 7" group-title="TRANS BOX",TRANS 7 HD (720p)
+http://185.53.90.98:8080/bananas/bananas/168183
+#EXTINF:-1 tvg-name="TRANS TV HD" group-title="TRANS BOX",TRANS TV HD (720p)
+http://185.53.90.98:8080/bananas/bananas/168184
 
+#EXTINF:-1 tvg-name="Trans7" group-title="TRANS BOX",Trans7 (720p)
+http://185.53.90.98:8080/bananas/bananas/200174
+#EXTINF:-1 tvg-name="Trans TV" group-title="TRANS BOX",Trans TV (720p)
+http://185.53.90.98:8080/bananas/bananas/200175
+
+#EXTINF:-1 tvg-name="Trans TV (Opt-1)" group-title="TRANS BOX",Trans 7 (Opt-1)
+http://185.53.90.98:8080/bananas/bananas/455412
+#EXTINF:-1 tvg-name="Trans TV (Opt-2)" group-title="TRANS BOX",Trans 7 (Opt-2)
+http://185.53.90.98:8080/bananas/bananas/455413
+#EXTINF:-1 tvg-name="Trans TV (Opt-1)" group-title="TRANS BOX",Trans TV (Opt-1)
+http://185.53.90.98:8080/bananas/bananas/455414
+#EXTINF:-1 tvg-name="Trans TV (Opt-3)" group-title="TRANS BOX",Trans TV (Opt-3)
+http://185.53.90.98:8080/bananas/bananas/455415
+
+#EXTINF:-1 tvg-name="PB TRANS ANGELS" group-title="TRANS BOX",PB TRANSANGELS
+http://185.53.90.98:8080/bananas/bananas/397503
+#EXTINF:-1 tvg-name="PB TRANS EROTICA" group-title="TRANS BOX",PB TRANS EROTICA
+http://185.53.90.98:8080/bananas/bananas/397505
 #EXTINF:-1 tvg-id="" tvg-name="Babes TV HD" tvg-logo="" group-title="ADULT",Babes TV HD
 http://bgdc.live:25461/mikekelly/48942279/204217
 #EXTINF:-1 tvg-id="" tvg-name="Balkan Erotic HD" tvg-logo="" group-title="ADULT",Balkan Erotic HD
