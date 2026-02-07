@@ -1,22 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1a" tvg-logo="" group-title="SPORTS",TNT Sports 1a
-http://vipambataousam.top:8080/VIP012961758211539629/dec3c3f57d28/1687
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1b" tvg-logo="" group-title="SPORTS",TNT Sports 1b
-http://vipambataousam.top:8080/VIP01611739727813340/8e568f1243ec/1687
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1c" tvg-logo="" group-title="SPORTS",TNT Sports 1c
-http://vipambataousam.top:8080/VIP018321754924851545/c1814e06ce8c/1687
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1d" tvg-logo="" group-title="SPORTS",TNT Sports 1d
-http://vipambataousam.top:8080/VIP0192170620917530/21740226626746/1687
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1e" tvg-logo="" group-title="SPORTS",TNT Sports 1e
-http://live.hexava.click:80/play/WVGe_apbY2seJXwNwlThtkHc7TYDEOXn49uBfVs8Z8BmRqUxlJWu35HV7Ahfx8xX/ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1f" tvg-logo="" group-title="SPORTS",TNT Sports 1f
-http://sokim303.xyz:8080/maydemir1212/18052021jsj@/320545
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1g" tvg-logo="" group-title="SPORTS",TNT Sports 1g
-http://live.hexava.click:80/play/mGTTmDDwBnx4nOqSFFkRT-6zcbGU14a1nvhn6V2pjbEYWYqg6uH1EGsJhv0bOpUL/ts
-
-
-
+#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT-BT Sport 1" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/tntsports1.png" group-title="UK ➾ UK SPORTS (ENGLAND)",TNT-BT Sport 1
+http://lunar.pm:8080/pettyque89/XLew4dZEqh9e/100775
+#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT-BT Sport 2" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/tntsports2.png" group-title="UK ➾ UK SPORTS (ENGLAND)",TNT-BT Sport 2
+http://lunar.pm:8080/pettyque89/XLew4dZEqh9e/100776
+#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT-BT Sport 3" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/tntsports3.png" group-title="UK ➾ UK SPORTS (ENGLAND)",TNT-BT Sport 3
+http://lunar.pm:8080/pettyque89/XLew4dZEqh9e/100777
+#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT-BT Sport 4 " tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/tntsports4.png" group-title="UK ➾ UK SPORTS (ENGLAND)",TNT-BT Sport 4 
+http://lunar.pm:8080/pettyque89/XLew4dZEqh9e/100778
 
 #EXTINF:-1 tvg-id="TNT SPORTS 1" tvg-name="UK: TNT SPORTS 1" tvg-logo="" group-title="UK ➾ UK SPORTS (ENGLAND)",UK: TNT SPORTS 1
 http://ip96.uk:8080//live/H645668DH/7565848DHY/495258.ts
@@ -1667,9 +1658,9 @@ http://tv4u1.xyz:8080/movie/Emremesdemelissa/Pk9UQAqjyG/783102.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Solang ich lebe | 2012 | 7.0" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJ8b0wVsbSNE9BMOH72yUzMXd2I.jpg" group-title="DE ➾ BOLLYWOOD",Solang ich lebe | 2012 | 7.0
 http://tv4u1.xyz:8080/movie/Emremesdemelissa/Pk9UQAqjyG/783103.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ ADULTS CHANNELS █ ▆ ▅ ▃" tvg-logo="" group-title="FOR ADULTS",▃ ▅ ▆ █ ADULTS CHANNELS █ ▆ ▅ ▃
-http://tv4u1.xyz:8080/Emremesdemelissa/Pk9UQAqjyG/2198
 
+#EXTINF:-1 tvg-id="" tvg-name="TRANS: TRANS ANGELS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="FOR ADULTS",TRANS: TRANS ANGELS
+http://lunar.pm:8080/pettyque89/XLew4dZEqh9e/131353
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS ANGELS" tvg-logo="" group-title="FOR ADULTS",TRANS ANGELS
 http://1tv41.icu:8080/msmrbuford@gmail.com/8bq2AP9PEa/159951
